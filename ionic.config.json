@@ -1,0 +1,7 @@
+{
+  "name": "Sign_pad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
