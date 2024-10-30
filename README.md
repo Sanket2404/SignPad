@@ -1,0 +1,1 @@
+This project is a mobile application built with Ionic and Angular to capture and store digital signatures. It allows users to draw their signature directly on their devices and save it securely. This app is ideal for use cases like document signing, authorization, and digital approvals.
