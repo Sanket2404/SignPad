@@ -32,6 +32,8 @@ export class SignPadComponent {
   }
 
   drawComplete(){
+    alert('Signature Stored Successfully..!!');
+    this.signaturePad.clear();
     this.signatureImage.emit(this.signaturePad.toDataURL());
     console.log('====================this.signatureImage=================',this.signatureImage);
   }
